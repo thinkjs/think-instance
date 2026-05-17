@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-instance.
+
 # think-instance
 [![Build Status](https://travis-ci.org/thinkjs/think-instance.svg?branch=master)](https://travis-ci.org/thinkjs/think-instance)
 [![Coverage Status](https://coveralls.io/repos/github/thinkjs/think-instance/badge.svg)](https://coveralls.io/github/thinkjs/think-instance)
